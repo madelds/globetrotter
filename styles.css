@@ -13,10 +13,22 @@
       font-family: "Dosis", sans-serif;
   }
   
-  .header h1 {
-      font-size: 40px;
+  h1 {
+      font-size: 60px;
   }
   
+  h3 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  a {
+    font-size: 25px;
+  }
+
+  figcaption {
+    font-size: 25px
+  }
   .navbar {
       overflow: hidden;
       background-color: #ffeac2;
@@ -25,7 +37,7 @@
   
   .navbar a {
       float: left;
-      display: block;
+      display: flex;
       color: black;
       text-align: center;
       padding: 14px 20px;
@@ -130,17 +142,14 @@
   
   p {
       text-align: center;
-  }
-
-@media screen and (max-width: 700px) {
-    .row {
-      flex-direction: column;
-    }
+      font-size: 25px;
   }
 
 @media screen and (max-width: 400px) {
-    .navbar a {
+    .navbar {
+      display: flex;
       float: none;
       width: 100%;
+      flex-direction: column;
     }
   }

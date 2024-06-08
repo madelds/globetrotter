@@ -58,33 +58,31 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
 
 - [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [X] Integrate at least one custom font using Google Fonts to add personality to your site.
   - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`https://www.loom.com/share/eb4ec8cc7c714b668323a3824f62e060?sid=fd8a027b-ed00-4d45-b0a7-d95147013c17`
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The topics discussed in my labs prepared me well to complete this assignment. Specifically, the step-by-step walkthrough from Lab 1 which talked about building a website using HTML was very helpful when I was working on setting up the home page of my Globetrotter assignment. The features in my weekly assignment which I felt unprepared to complete included creating a responsive layout with media queries and arranging the contents of my sections using Flexbox.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have spent it on personally customizing the home page and adding more interactive pictures and descriptions to the photo gallery. In other words, I think my website could use more personal customization.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Reflecting back on my project demo, I believe working with my peers went well, as I was able to spend time learning from them and teaching them what I know, which really deepened my learning. Something that didn't go as planned was how I managed my time with this project, as I believe I could have spent more time reviewing labs and projects before fully working on the project, which would have lessened I spent asking questions and researching during open work blocks. One thing that my peer did that I would like to try next time was to be less reliant on ChatGPT for syntax resolutions and code, as I believe spending more of my time learning by myslef would help me be fully immersed and understanding of the topics covered in Unit 1.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- N/A
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shoutout to Roxana, Julia, and Karina for helping me with my project!
