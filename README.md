@@ -63,7 +63,10 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`https://www.loom.com/share/eb4ec8cc7c714b668323a3824f62e060?sid=fd8a027b-ed00-4d45-b0a7-d95147013c17`
+<div style="position: relative; padding-bottom: 62.5%; height: 0;">
+  <iframe src="https://www.loom.com/embed/eb4ec8cc7c714b668323a3824f62e060?sid=e8bf5598-8bf0-4e15-a0db-8c086c526e87" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ### Reflection
 
